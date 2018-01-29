@@ -1,4 +1,4 @@
-# Dubigo.chesstheme
+# Dubigo chesstheme
 Abstract chess piece set theme (tested on Mobialia Chess 5.3.5 for Android).
 
 See "piece_set.png".
