@@ -14,3 +14,5 @@ Name: Dubigo chess piece set theme
 Author: Igor Bohar, ing. mat., Slovenia
 
 Contact: ibohar@gmail.com
+
+License: GNU GPL V3
